@@ -1,0 +1,9 @@
+backup/
+EE2_stage2/
+EE2_vbb/
+pyReIdLable.egg-info/
+*.pyc
+*.npy
+*.jpg
+*.png
+*.zip
